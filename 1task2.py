@@ -31,4 +31,4 @@ def ip_address():
                 i.insert(0,'10')
 	return i5
 
-print(ip_address)
+print(ip_address())
