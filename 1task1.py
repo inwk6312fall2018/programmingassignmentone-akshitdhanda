@@ -4,7 +4,8 @@ def ifname_value():
 	"""Now, making list of different set of information in the intial list and hence creating empty lists for the same for combining different entries in the last list"""	
 
 	a=[]
-	b=[]	c=[]
+	b=[]	
+	c=[]
 	d=[]
 	for line in file:
 		line=line.strip() #strip off the whitespaces
